@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,37 +55,13 @@
   ],
   "Texture": [
     {
-    "name": "SufiCraft Shader v0.2",
-    "role": "This shader just a simple shader but it will make your minecraft better. There are some future in this shader to make it beautiful. You can use this shader to your world to make it better.",
-    "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/tiga_desc.png",
-    "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/SufiCraft-Shader-v0.2.mcpack",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/empat_desc.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/2/dua.png"
-  },
-  {
-    "name": "Energy Shaders",
-    "role": "Energy Shaders makes your world look much better. With better lights, shadows, fog and much more. You should just download it and try it our for yourself. It`s totally free! Energy Shaders is one of the first shaders to offer full support for Windows 10, iOS and Android. The most noticeable differences are for the water and lighting. The combined result is astonishing as it makes the world look a bit more realistic but primarily just a more beautiful world to experience. It also comes with some nice 32�32 clear glass textures.",
-    "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/enam_desc.png",
-    "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/Energy Shaders v. 3.7.1.mcpack",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/tiga.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/3/lima_desc.png"
-  },
-  {
-    "name": "HTRE Shader",
-    "role": "HTRE Shader is one of the best shaders for slow devices, such as a Kindle Fire HD8 7th gen, which can barely run any nice shaders. I tried the highest rated shaders on the Kindle and it lagged so much! That is why I created the HTRE Shader! I wanted a good shader with no lag at all! If you want that you should download this shader!",
-    "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/duabelas_desc.png",
-    "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/HTREShader/HTREShader.mcpack",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/sebelas_desc.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/6/enam.png"
-  },
-  {
-    "name": "UltraMin Shader",
-    "role": "WARNING! This is not UltraMax Shader. The shader that you�re looking for is in a different post. UltraMin Shader is a variation of UltraMax Shader aimed to give you an ultra lightweight and extremely close to vanilla based visuals, the original intention of UltraLite Shader. In fact, this shader is planned to be the continuation of the now obsolete and superseded UltraLite and Ultra10 Shader. UltraMin Shader, while maintaining fair performance, is designed to be as compatible as possible to as many devices as possible. Apart from that, UltraMin Shader will serves as UltraMax Shader�s experimental shader. Support both Windows 10 and Android version of Minecraft Bedrock Edition (Based on my testing: Lenovo ThinkPad Edge E420s, Huawei P9).",
-    "image": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/tujuh.png",
-    "file_url": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/UltraMin Shader 1.0.1.mcpack",
-    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/tigabelas_desc.png",
-    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Realistic Shader/7/empatbelas_desc.png"
-  }
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
   ],
   "Skins": [
     {
